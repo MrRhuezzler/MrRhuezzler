@@ -3,6 +3,7 @@
 > of a very average star. But... We can understand universe that  
 > makes us special !!
 
+<!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=mrrhuezzler&count_private=true&hide=issues&show_icons=true&hide_title=true) -->
 
 <!--
 **MrRhuezzler/MrRhuezzler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
