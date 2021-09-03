@@ -2747,8 +2747,8 @@ const changeREADME = (quotes) => {
 
     const qoute = quotes[0]
     const output = `#### A Quote Goes like...
-    > ${qoute["text"]}
-    > -${qoute["author"]}`
+> ${qoute["text"]}
+> -${qoute["author"]}`
     fs.writeFileSync('README.md', output);
 
 }
