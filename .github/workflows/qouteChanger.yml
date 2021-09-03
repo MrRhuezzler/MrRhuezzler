@@ -1,8 +1,9 @@
 name: Qoute Changer
 
-on: push
-  # schedule:
-  #   - cron:  '* * * * *'
+# on: push
+on:
+  schedule:
+    - cron:  '30 6 * * *'
 
 jobs:
   test:
