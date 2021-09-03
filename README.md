@@ -1,3 +1,3 @@
 #### A Quote Goes like...
-> As long as I love Beauty I am young.
-> -W. H. Davies
+    > I don't believe in one ideal beauty.
+    > -Zac Posen
