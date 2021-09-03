@@ -2,7 +2,7 @@ name: Qoute Changer
 
 on:
   schedule:
-    - cron:  '0 0 10 1/1 * ? *'
+    - cron:  '30 6 * * *'
 
 jobs:
   test:
