@@ -1,3 +1,3 @@
 #### A Quote Goes like...
-    > I don't believe in one ideal beauty.
-    > -Zac Posen
+> Aristotle maintained that women have fewer teeth than men although he was twice married, it never occurred to him to verify this statement by examining his wives' mouths.
+> -Bertrand Russell
