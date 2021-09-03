@@ -2746,7 +2746,9 @@ const axios = __nccwpck_require__(545);
 const changeREADME = (quotes) => {
 
     const qoute = quotes[0]
-    const output = `#### A Quote Goes like...\n> ${qoute["text"]}\n> -${qoute["author"]}`
+    const output = `#### A Quote Goes like...
+    > ${qoute["text"]}
+    > -${qoute["author"]}`
     fs.writeFileSync('README.md', output);
 
 }
