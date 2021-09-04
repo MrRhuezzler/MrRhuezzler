@@ -1,3 +1,3 @@
 #### A Quote Goes like...
-> Aristotle maintained that women have fewer teeth than men although he was twice married, it never occurred to him to verify this statement by examining his wives' mouths.
-> -Bertrand Russell
+> Look, everything that you experience as a kid is the foundation of how you are today. I was brought up in a working class family in Leeds and when it comes to money both my parents worked hard and instilled the same attitude into me.
+> -Melanie Brown
