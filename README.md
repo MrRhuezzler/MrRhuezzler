@@ -1,3 +1,3 @@
 #### A Quote Goes like...
-> There's no such thing is aging, but maturing and knowledge. It's beautiful, I call that beauty.
-> -Celine Dion
+> Peace is not absence of conflict, it is the ability to handle conflict by peaceful means.
+> -Ronald Reagan
