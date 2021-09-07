@@ -1,3 +1,3 @@
 #### A Quote Goes like...
-> Peace is not absence of conflict, it is the ability to handle conflict by peaceful means.
-> -Ronald Reagan
+> We make the world we live in and shape our own environment.
+> -Orison Swett Marden
