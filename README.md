@@ -1,3 +1,3 @@
 #### A Quote Goes like...
-> We make the world we live in and shape our own environment.
-> -Orison Swett Marden
+> The key is to keep company only with people who uplift you, whose presence calls forth your best.
+> -Epictetus
