@@ -1,3 +1,3 @@
 #### A Quote Goes like...
-> The key is to keep company only with people who uplift you, whose presence calls forth your best.
-> -Epictetus
+> It is conventional to call 'monster' any blending of dissonant elements. I call 'monster' every original inexhaustible beauty.
+> -Alfred Jarry
