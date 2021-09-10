@@ -1,3 +1,3 @@
 #### A Quote Goes like...
-> It is conventional to call 'monster' any blending of dissonant elements. I call 'monster' every original inexhaustible beauty.
-> -Alfred Jarry
+> I longed to arrest all beauty that came before me, and at length the longing has been satisfied.
+> -Julia Margaret Cameron
