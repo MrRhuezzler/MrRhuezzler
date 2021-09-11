@@ -1,3 +1,3 @@
 #### A Quote Goes like...
-> I longed to arrest all beauty that came before me, and at length the longing has been satisfied.
-> -Julia Margaret Cameron
+> Medical liability reform is not a Republican or Democrat issue or even a doctor versus lawyer issue. It is a patient issue.
+> -John Ensign
