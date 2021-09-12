@@ -1,3 +1,3 @@
 #### A Quote Goes like...
-> Medical liability reform is not a Republican or Democrat issue or even a doctor versus lawyer issue. It is a patient issue.
-> -John Ensign
+> One cannot develop taste from what is of average quality but only from the very best.
+> -Johann Wolfgang von Goethe
