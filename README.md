@@ -1,3 +1,3 @@
 #### A Quote Goes like...
-> One cannot develop taste from what is of average quality but only from the very best.
-> -Johann Wolfgang von Goethe
+> Most people work just hard enough not to get fired and get paid just enough money not to quit.
+> -George Carlin
