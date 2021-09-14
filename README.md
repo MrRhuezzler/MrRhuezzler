@@ -1,3 +1,3 @@
 #### A Quote Goes like...
-> Most people work just hard enough not to get fired and get paid just enough money not to quit.
-> -George Carlin
+> This film cost $31 million. With that kind of money I could have invaded some country.
+> -Clint Eastwood
