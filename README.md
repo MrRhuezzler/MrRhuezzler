@@ -1,3 +1,3 @@
 #### A Quote Goes like...
-> This film cost $31 million. With that kind of money I could have invaded some country.
-> -Clint Eastwood
+> Men make history and not the other way around. In periods where there is no leadership, society stands still. Progress occurs when courageous, skillful leaders seize the opportunity to change things for the better.
+> -Harry S. Truman
