@@ -1,3 +1,3 @@
 #### A Quote Goes like...
-> Men make history and not the other way around. In periods where there is no leadership, society stands still. Progress occurs when courageous, skillful leaders seize the opportunity to change things for the better.
-> -Harry S. Truman
+> I have resolved on an enterprise that has no precedent and will have no imitator. I want to set before my fellow human beings a man in every way true to nature and that man will be myself.
+> -Jean-Jacques Rousseau
