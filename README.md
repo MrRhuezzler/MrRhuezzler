@@ -1,3 +1,3 @@
 #### A Quote Goes like...
-> I'm so grateful for what Disney gave me and the experiences that I got, but at the end of the day, I can do so much more than what I did on that channel and in those movies.
-> -Ashley Tisdale
+> I'm a big fan of Courtney Love. I love Hole and I love her acting and I love her attitude. I just hope I never meet her in a dark alley.
+> -Jeff Ross
