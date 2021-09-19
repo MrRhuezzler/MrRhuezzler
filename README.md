@@ -1,3 +1,3 @@
 #### A Quote Goes like...
-> I'm a big fan of Courtney Love. I love Hole and I love her acting and I love her attitude. I just hope I never meet her in a dark alley.
-> -Jeff Ross
+> After wrestling with myself for six months, I began medical treatment. During that time I started a band with some friends of mine called Jack's Car, but that didn't last.
+> -Jack Irons
