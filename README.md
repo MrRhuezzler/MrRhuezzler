@@ -1,3 +1,3 @@
 #### A Quote Goes like...
-> After wrestling with myself for six months, I began medical treatment. During that time I started a band with some friends of mine called Jack's Car, but that didn't last.
-> -Jack Irons
+> When my mom ran for the Senate, my dad was there for her every step of the way. I can still hear her saying in her beautiful voice, 'Why should women have any less say than men, about the great decisions facing our nation?'
+> -Mitt Romney
