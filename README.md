@@ -1,3 +1,3 @@
 #### A Quote Goes like...
-> When my mom ran for the Senate, my dad was there for her every step of the way. I can still hear her saying in her beautiful voice, 'Why should women have any less say than men, about the great decisions facing our nation?'
-> -Mitt Romney
+> I'm not denyin' the women are foolish. God Almighty made 'em to match the men.
+> -George Eliot
