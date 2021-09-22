@@ -1,3 +1,3 @@
 #### A Quote Goes like...
-> I'm not denyin' the women are foolish. God Almighty made 'em to match the men.
-> -George Eliot
+> I have come to understand and appreciate writers much more recently since I started working on a book last fall. Before that, I thought golf writers got up every morning, played a round of golf, had lunch, showed up for our last three holes and then went to dinner.
+> -Phil Mickelson
