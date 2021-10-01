@@ -1,3 +1,3 @@
 #### A Quote Goes like...
-> My mom insisted on multigrain bread and never allowed soda in the house.
-> -Vin Diesel
+> When we seek to discover the best in others, we somehow bring out the best in ourselves.
+> -William Arthur Ward
