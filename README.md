@@ -1,3 +1,3 @@
 #### A Quote Goes like...
-> When we seek to discover the best in others, we somehow bring out the best in ourselves.
-> -William Arthur Ward
+> I'm very comfortable with the nature of life and death, and that we come to an end. What's most difficult to imagine is that those dreams and early yearnings and desires of childhood and adolescence will also disappear. But who knows? Maybe you become part of the eternal whatever.
+> -Hugh Hefner
