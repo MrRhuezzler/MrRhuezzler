@@ -1,3 +1,3 @@
 #### A Quote Goes like...
-> I'm very comfortable with the nature of life and death, and that we come to an end. What's most difficult to imagine is that those dreams and early yearnings and desires of childhood and adolescence will also disappear. But who knows? Maybe you become part of the eternal whatever.
-> -Hugh Hefner
+> My life had become a catastrophe. I had no idea how to turn it around. My band had broken up. I had almost lost my family. My whole life had devolved into a disaster. I believe that the police officer who stopped me at three a.m. that morning saved my life.
+> -Trey Anastasio
