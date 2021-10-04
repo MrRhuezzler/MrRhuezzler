@@ -1,3 +1,3 @@
 #### A Quote Goes like...
-> My life had become a catastrophe. I had no idea how to turn it around. My band had broken up. I had almost lost my family. My whole life had devolved into a disaster. I believe that the police officer who stopped me at three a.m. that morning saved my life.
-> -Trey Anastasio
+> Your basic person wants to talk about material culture, internet culture. I think about God, cats, nature.
+> -Billy Corgan
