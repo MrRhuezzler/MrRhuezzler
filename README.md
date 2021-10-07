@@ -1,3 +1,3 @@
 #### A Quote Goes like...
-> I love such mirth as does not make friends ashamed to look upon one another next morning.
-> -Izaak Walton
+> In life, single women are the most vulnerable adults. In movies, they are given imaginary power.
+> -Elizabeth Wurtzel
