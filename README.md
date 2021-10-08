@@ -1,3 +1,3 @@
 #### A Quote Goes like...
-> In life, single women are the most vulnerable adults. In movies, they are given imaginary power.
-> -Elizabeth Wurtzel
+> Ninety percent of all music is always crap, and when too many people decide they're going to have guitar bands, then ninety percent of them are going to be crap. It's just a given law.
+> -David Byrne
