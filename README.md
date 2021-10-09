@@ -1,3 +1,3 @@
 #### A Quote Goes like...
-> Ninety percent of all music is always crap, and when too many people decide they're going to have guitar bands, then ninety percent of them are going to be crap. It's just a given law.
-> -David Byrne
+> No men are oftener wrong than those that can least bear to be so.
+> -Francois de La Rochefoucauld
