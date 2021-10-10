@@ -1,3 +1,3 @@
 #### A Quote Goes like...
-> No men are oftener wrong than those that can least bear to be so.
-> -Francois de La Rochefoucauld
+> There are two kinds of artists in this world those that work because the spirit is in them, and they cannot be silent if they would, and those that speak from a conscientious desire to make apparent to others the beauty that has awakened their own admiration.
+> -Anna Katharine Green
