@@ -1,3 +1,3 @@
 #### A Quote Goes like...
-> There are two kinds of artists in this world those that work because the spirit is in them, and they cannot be silent if they would, and those that speak from a conscientious desire to make apparent to others the beauty that has awakened their own admiration.
-> -Anna Katharine Green
+> All the flowers of all the tomorrows are in the seeds of today.
+> -Anonymous
