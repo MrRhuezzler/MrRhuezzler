@@ -1,3 +1,3 @@
 #### A Quote Goes like...
-> All the flowers of all the tomorrows are in the seeds of today.
-> -Anonymous
+> American men, as a group, seem to be interested in only two things, money and breasts. It seems a very narrow outlook.
+> -Hedy Lamarr
