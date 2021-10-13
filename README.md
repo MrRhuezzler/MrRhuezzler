@@ -1,3 +1,3 @@
 #### A Quote Goes like...
-> American men, as a group, seem to be interested in only two things, money and breasts. It seems a very narrow outlook.
-> -Hedy Lamarr
+> Our money is bait money, and bait money is not to be used.
+> -Mike Tyson
