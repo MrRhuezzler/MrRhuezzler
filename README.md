@@ -1,3 +1,3 @@
 #### A Quote Goes like...
-> I decided to pursue music, so I dropped out of school and I told my parents I didn't want any money from them. I got three jobs and I just hit the ground running.
-> -Lady Gaga
+> If advertisers spent the same amount of money on improving their products as they do on advertising then they wouldn't have to advertise them.
+> -Will Rogers
