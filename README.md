@@ -1,3 +1,3 @@
 #### A Quote Goes like...
-> If advertisers spent the same amount of money on improving their products as they do on advertising then they wouldn't have to advertise them.
-> -Will Rogers
+> Bologna is the best city in Italy for food and has the least number of tourists. With its medieval beauty, it has it all.
+> -Mario Batali
