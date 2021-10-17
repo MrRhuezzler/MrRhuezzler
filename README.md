@@ -1,3 +1,3 @@
 #### A Quote Goes like...
-> Bologna is the best city in Italy for food and has the least number of tourists. With its medieval beauty, it has it all.
-> -Mario Batali
+> If one were to bring ten of the wisest men in the world together and ask them what was the most stupid thing in existence, they would not be able to discover anything so stupid as astrology.
+> -David Hilbert
