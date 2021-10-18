@@ -1,3 +1,3 @@
 #### A Quote Goes like...
-> If one were to bring ten of the wisest men in the world together and ask them what was the most stupid thing in existence, they would not be able to discover anything so stupid as astrology.
-> -David Hilbert
+> The marriage didn't work out but the separation is great.
+> -Liz Smith
