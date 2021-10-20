@@ -1,3 +1,3 @@
 #### A Quote Goes like...
-> To understand someone, find out how he spends his money.
-> -Mason Cooley
+> It is dangerous for mortal beauty, or terrestrial virtue, to be examined by too strong a light. The torch of Truth shows much that we cannot, and all that we would not, see.
+> -Samuel Johnson
