@@ -1,3 +1,3 @@
 #### A Quote Goes like...
-> It is dangerous for mortal beauty, or terrestrial virtue, to be examined by too strong a light. The torch of Truth shows much that we cannot, and all that we would not, see.
-> -Samuel Johnson
+> Never lose an opportunity of seeing anything beautiful, for beauty is God's handwriting.
+> -Charles Kingsley
