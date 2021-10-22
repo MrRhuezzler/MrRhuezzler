@@ -1,3 +1,3 @@
 #### A Quote Goes like...
-> Never lose an opportunity of seeing anything beautiful, for beauty is God's handwriting.
-> -Charles Kingsley
+> The very important thing you should have is patience.
+> -Jack Ma
