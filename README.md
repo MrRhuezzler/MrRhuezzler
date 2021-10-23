@@ -1,3 +1,3 @@
 #### A Quote Goes like...
-> The very important thing you should have is patience.
-> -Jack Ma
+> Peace is not the absence of conflict but the presence of creative alternatives for responding to conflict - alternatives to passive or aggressive responses, alternatives to violence.
+> -Dorothy Thompson
