@@ -1,3 +1,3 @@
 #### A Quote Goes like...
-> Peace is not the absence of conflict but the presence of creative alternatives for responding to conflict - alternatives to passive or aggressive responses, alternatives to violence.
-> -Dorothy Thompson
+> Many folks think they aren't good at earning money, when what they don't know is how to use it.
+> -Frank A. Clark
