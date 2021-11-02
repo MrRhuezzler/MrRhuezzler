@@ -1,3 +1,3 @@
 #### A Quote Goes like...
-> Many folks think they aren't good at earning money, when what they don't know is how to use it.
-> -Frank A. Clark
+> The strength and power and goodness of America has always been based on the strength and power and goodness of our communities, our families, our faiths. That is the bedrock of what makes America, America. In our best days, we can feel the vibrancy of America's communities, large and small.
+> -Mitt Romney
