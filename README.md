@@ -1,3 +1,3 @@
 #### A Quote Goes like...
-> The strength and power and goodness of America has always been based on the strength and power and goodness of our communities, our families, our faiths. That is the bedrock of what makes America, America. In our best days, we can feel the vibrancy of America's communities, large and small.
-> -Mitt Romney
+> Do not overrate what you have received, nor envy others. He who envies others does not obtain peace of mind.
+> -Buddha
