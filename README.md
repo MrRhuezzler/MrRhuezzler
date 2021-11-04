@@ -1,3 +1,3 @@
 #### A Quote Goes like...
-> Do not overrate what you have received, nor envy others. He who envies others does not obtain peace of mind.
-> -Buddha
+> We cannot direct the wind but we can adjust the sails.
+> -Anonymous
