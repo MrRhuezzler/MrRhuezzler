@@ -1,3 +1,3 @@
 #### A Quote Goes like...
-> We cannot direct the wind but we can adjust the sails.
-> -Anonymous
+> Beauty, to me, is about being comfortable in your own skin. That, or a kick-ass red lipstick.
+> -Gwyneth Paltrow
