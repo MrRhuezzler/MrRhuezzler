@@ -1,3 +1,3 @@
 #### A Quote Goes like...
-> Beauty, to me, is about being comfortable in your own skin. That, or a kick-ass red lipstick.
-> -Gwyneth Paltrow
+> Great classic music that I've been turned on to has not only inspired and influenced me, but it has had an effect on my songwriting.
+> -Scott Weiland
