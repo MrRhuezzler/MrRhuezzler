@@ -1,3 +1,3 @@
 #### A Quote Goes like...
-> Great classic music that I've been turned on to has not only inspired and influenced me, but it has had an effect on my songwriting.
-> -Scott Weiland
+> And it is still true, no matter how old you are, when you go out into the world it is best to hold hands and stick together.
+> -Robert Fulghum
