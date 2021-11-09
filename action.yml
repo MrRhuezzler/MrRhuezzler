@@ -2,6 +2,6 @@ name: 'Dynamic README'
 description: 'Change my README file'
 author: 'MrRhuezzler'
 
-runs:
-  using: 'node12'
-  main: '.github/workflows/qc.js'
+# runs:
+#   using: 'node12'
+#   main: '.github/workflows/qc.js'
