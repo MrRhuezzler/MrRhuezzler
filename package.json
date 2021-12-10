@@ -1,0 +1,14 @@
+{
+  "name": "MrRhuezzler",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:MrRhuezzler/MrRhuezzler.git",
+  "author": "MrRhuezzler <anonymouspyro369@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build" : "ncc build src/action.js -o dist"
+  },
+  "dependencies": {
+    "@vercel/ncc": "^0.33.0"
+  }
+}
