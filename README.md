@@ -1,2 +1,2 @@
->  The present is theirs; the future, for which I really worked, is mine.  
-> -Nikola Tesla
+>  Always we overestimate the amount of work we can do in a day,  
+>  and underestimate the amount we can do in our lifetime.
