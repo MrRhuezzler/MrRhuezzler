@@ -2,6 +2,10 @@
   
   
 # Hello !!
+I am Rhubanraj (MrRhuezzler), an evloving computer enthusiast.
+
+### Quote
+The qoute i enjoyed reading,
 >  Always we overestimate the amount of work we can do in a day,  
 >  and underestimate the amount we can do in our lifetime.
 
