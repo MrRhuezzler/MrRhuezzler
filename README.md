@@ -1,14 +1,14 @@
 <!-- <img src="images/banner.png" width="100%" /> -->
   
   
-# Hello !!
+# Hello:wave:!!
 I am Rhubanraj (MrRhuezzler), an evloving computer enthusiast.
 
 ## About me
-- I'm currently working on **Journal Management System**
-- I'm currently learning **Microservices Architecture**
-- Ask me about **anything, which might interest you**
-- Pronouns : **He/Him**
+- :sparkles: I'm currently working on **Journal Management System**
+- :book: I'm currently learning **Microservices Architecture**
+- :speech_balloon: Ask me about **anything, which might interest you**
+- :smile: Pronouns : **He/Him**
 - Fun fact : **I Love Connections and Confusions**.
 
 <!--
