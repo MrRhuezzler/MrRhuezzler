@@ -8,9 +8,12 @@ I am Rhubanraj (MrRhuezzler), an evloving computer enthusiast.
 - :sparkles: I'm currently working on **Journal Management System**
 - :book: I'm currently learning **Microservices Architecture**
 - :speech_balloon: Ask me about **anything, which might interest you**
-- :smile: Pronouns : **He/Him**
-- Fun fact : **I Love Connections and Confusions**.
+- :man: Pronouns : **He/Him**
+- :interrobang: Fun fact : **I Love Connections and Confusions**.
 
+<!--
+### Interesting things, I found :bangbang:
+-->
 <!--
 ## Skills
 
@@ -18,7 +21,7 @@ I am Rhubanraj (MrRhuezzler), an evloving computer enthusiast.
 -->
 
 ### Quote
-The qoute i enjoyed reading,
+<sub>The qoute, I enjoyed reading,</sub>
 >  Always we overestimate the amount of work we can do in a day,  
 >  and underestimate the amount we can do in our lifetime.
 
