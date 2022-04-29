@@ -4,12 +4,20 @@
 # Hello !!
 I am Rhubanraj (MrRhuezzler), an evloving computer enthusiast.
 
+## About me
+- I'm currently working on **Journal Management System**
+- I'm currently learning **Microservices Architecture**
+- Ask me about **anything, which might interest you**
+- Pronouns : **He/Him**
+- Fun fact : **I Love Connections and Confusions**.
+
+
 ### Quote
 The qoute i enjoyed reading,
 >  Always we overestimate the amount of work we can do in a day,  
 >  and underestimate the amount we can do in our lifetime.
 
-
+### Activity
 <!--START_SECTION:waka-->
 
 ```text
