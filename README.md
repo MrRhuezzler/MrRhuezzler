@@ -11,6 +11,11 @@ I am Rhubanraj (MrRhuezzler), an evloving computer enthusiast.
 - Pronouns : **He/Him**
 - Fun fact : **I Love Connections and Confusions**.
 
+<!--
+## Skills
+
+## Drop a, Hi !
+-->
 
 ### Quote
 The qoute i enjoyed reading,
