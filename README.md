@@ -1,8 +1,8 @@
-<!-- <img src="images/banner.png" width="100%" /> -->
+
   
   
 # Hello:wave:!!
-I am Rhubanraj (MrRhuezzler), an evloving computer enthusiast.
+I am Rhubanraj [@MrRhuezzler](https://github.com/MrRhuezzler) an evloving computer enthusiast.
 
 ## About me
 - :sparkles: I'm currently working on **Journal Management System**
