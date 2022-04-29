@@ -1,4 +1,4 @@
-<img src="images/banner.jpg" height="75" width="100%" style="object-fit:cover;"/>
+<!-- <img src="images/banner.png" width="100%" /> -->
   
   
 # Hello !!
