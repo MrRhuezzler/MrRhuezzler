@@ -29,10 +29,11 @@ I am Rhubanraj [@MrRhuezzler](https://github.com/MrRhuezzler) an evloving comput
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   32 mins         ████████████████████▒░░░░   81.29 %
-TypeScript   7 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.54 %
-Python       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
-CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+JavaScript   1 hr 2 mins     ██████████████░░░░░░░░░░░   56.46 %
+TypeScript   47 mins         ██████████▓░░░░░░░░░░░░░░   42.37 %
+C            0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+Python       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
