@@ -10,7 +10,9 @@ I am Rhubanraj [@MrRhuezzler](https://github.com/MrRhuezzler) an evloving comput
 - :speech_balloon: Ask me about **anything, which might interest you**
 - :man: Pronouns : **He/Him**
 - :interrobang: Fun fact : **I Love Connections and Confusions**.
-
+- :globe_with_meridians: Reach me :  
+  
+[![mrrhuezzler](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrrhuezzler/)
 <!--
 ### Interesting things, I found :bangbang:
 -->
@@ -37,3 +39,6 @@ CSS          0 secs          ░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
+### Stats
+![stats](https://github-readme-streak-stats.herokuapp.com/?user=MrRhuezzler)
