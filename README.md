@@ -22,10 +22,16 @@ I am Rhubanraj [@MrRhuezzler](https://github.com/MrRhuezzler) an evloving comput
 ## Drop a, Hi !
 -->
 
-### Quote
-<sub>The qoute, I enjoyed reading,</sub>
+<!-- 
+Quotes
 >  Always we overestimate the amount of work we can do in a day,  
 >  and underestimate the amount we can do in our lifetime.
+-->
+
+### Quote
+<sub>I enjoyed reading,</sub>
+> As a self taught developer, I learnt to say  
+> 'I don't about this yet, But I will figure it out'
 
 ### Activity
 <!--START_SECTION:waka-->
