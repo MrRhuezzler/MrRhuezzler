@@ -2,7 +2,7 @@
   
   
 # Hello:wave:!!
-I am Rhubanraj [@MrRhuezzler](https://github.com/MrRhuezzler) an evloving computer enthusiast.
+I am Rhubanraj [@MrRhuezzler](https://github.com/MrRhuezzler) an evolving computer enthusiast.
 
 ## About me
 - :sparkles: I'm currently working on [**Journal Management System**](https://manuscript.psgtech.ac.in)
