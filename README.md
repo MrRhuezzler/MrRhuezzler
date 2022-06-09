@@ -5,7 +5,8 @@
 I am Rhubanraj [@MrRhuezzler](https://github.com/MrRhuezzler) an evolving computer enthusiast.
 
 ## About me
-- :sparkles: I'm currently working on [**Journal Management System**](https://manuscript.psgtech.ac.in)
+- :sparkles: I'm currently working on [**de-viz**](https://github.com/MrRhuezzler/de-viz)
+- :sparkles: Previous worked in [**Journal Management System**](https://manuscript.psgtech.ac.in)
 - :book: I'm currently learning **Microservices Architecture**
 - :speech_balloon: Ask me about **anything, which might interest you**
 - :man: Pronouns : **He/Him**
