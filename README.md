@@ -38,10 +38,10 @@ Quotes
 <!--START_SECTION:waka-->
 
 ```text
-Python       2 hrs 10 mins   ████████████▒░░░░░░░░░░░░   49.34 %
-JavaScript   1 hr 14 mins    ███████░░░░░░░░░░░░░░░░░░   28.05 %
-TypeScript   59 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.53 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Python       2 hrs 10 mins   ██████████████████▓░░░░░░   74.15 %
+JavaScript   29 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.54 %
+TypeScript   16 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.19 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ```
 
 <!--END_SECTION:waka-->
