@@ -6,7 +6,7 @@ I am Rhubanraj [@MrRhuezzler](https://github.com/MrRhuezzler) an evolving comput
 
 ## About me
 - :sparkles: I'm currently working on [**de-viz**](https://github.com/MrRhuezzler/de-viz)
-- :sparkles: Previous worked in [**Journal Management System**](https://manuscript.psgtech.ac.in)
+- :sparkles: Previously worked in [**Journal Management System**](https://manuscript.psgtech.ac.in)
 - :book: I'm currently learning **Microservices Architecture**
 - :speech_balloon: Ask me about **anything, which might interest you**
 - :man: Pronouns : **He/Him**
@@ -29,10 +29,8 @@ Quotes
 >  and underestimate the amount we can do in our lifetime.
 -->
 
-### Quote
-<sub>I enjoyed reading,</sub>
 > As a self taught developer, I learnt to say  
-> 'I don't about this yet, But I will figure it out'
+> 'I don't know about this yet, But I will figure it out'
 
 ### Activity
 <!--START_SECTION:waka-->
