@@ -36,9 +36,8 @@ Quotes
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   1 hr 51 mins    █████████████████▒░░░░░░░   69.46 %
-Python       34 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.81 %
-Other        10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.59 %
+TypeScript   2 hrs 45 mins   ██████████████████████░░░   88.66 %
+Other        10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.65 %
 ```
 
 <!--END_SECTION:waka-->
