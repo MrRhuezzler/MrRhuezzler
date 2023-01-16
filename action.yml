@@ -1,7 +1,0 @@
-name: 'Dynamic README'
-description: 'Changes my README file'
-author: 'MrRhuezzler'
-
-runs:
-  using: 'node12'
-  main: 'dist/index.js'
