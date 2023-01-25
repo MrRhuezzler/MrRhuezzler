@@ -36,12 +36,12 @@ Quotes
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   13 hrs 6 mins   ███████████▒░░░░░░░░░░░░░   45.76 %
-JavaScript   9 hrs 25 mins   ████████▒░░░░░░░░░░░░░░░░   32.88 %
-Docker       2 hrs 8 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 %
-YAML         49 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
-Markdown     37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
-Other        35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
+TypeScript   10 hrs 9 mins   ███████▓░░░░░░░░░░░░░░░░░   30.78 %
+JavaScript   9 hrs 24 mins   ███████░░░░░░░░░░░░░░░░░░   28.49 %
+Python       7 hrs 8 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.64 %
+Docker       2 hrs 8 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.51 %
+YAML         49 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
+Markdown     35 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
 ```
 
 <!--END_SECTION:waka-->
