@@ -36,11 +36,10 @@ Quotes
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   10 hrs 33 mins  █████████▒░░░░░░░░░░░░░░░   37.92 %
-JavaScript   7 hrs 57 mins   ███████░░░░░░░░░░░░░░░░░░   28.56 %
-Python       7 hrs 8 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.63 %
-Bash         45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
-Other        35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
+JavaScript   12 hrs 18 mins  ███████████▓░░░░░░░░░░░░░   46.07 %
+Python       7 hrs 8 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.72 %
+TypeScript   4 hrs 44 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.73 %
+Other        54 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
 ```
 
 <!--END_SECTION:waka-->
