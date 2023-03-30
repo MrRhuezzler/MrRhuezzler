@@ -48,3 +48,6 @@ Other        7 mins          ▒░░░░░░░░░░░░░░░░
 
 ### Stats
 ![stats](https://github-readme-streak-stats.herokuapp.com/?user=MrRhuezzler)
+
+### Projects
+- [Manuscript](https:://manuscript.psgtech.ac.in)
