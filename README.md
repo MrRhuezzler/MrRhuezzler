@@ -36,11 +36,11 @@ Quotes
 <!--START_SECTION:waka-->
 
 ```txt
-Batchfile       2 hrs 4 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.76 %
-Assembly        1 hr 15 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.37 %
-XSLT            1 hr 15 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.26 %
-Python          1 hr 5 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   14.21 %
-JavaScript      35 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 %
+Batchfile       2 hrs 4 mins    ███████▓░░░░░░░░░░░░░░░░░   31.20 %
+Assembly        1 hr 23 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.88 %
+XSLT            1 hr 15 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.96 %
+Python          1 hr 5 mins     ████░░░░░░░░░░░░░░░░░░░░░   16.56 %
+Other           22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.54 %
 ```
 
 <!--END_SECTION:waka-->
