@@ -36,11 +36,7 @@ Quotes
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     52 mins         █████████████████░░░░░░░░   68.15 %
-C#           16 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.54 %
-XML          7 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.14 %
-JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
