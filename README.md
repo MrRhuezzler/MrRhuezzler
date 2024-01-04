@@ -50,3 +50,5 @@ TSConfig     6 mins          ▒░░░░░░░░░░░░░░░░
 
 ### Notable Projects
 - [Manuscript](https:://manuscript.psgtech.ac.in)
+- [delta-dx](https://www.github.com/MrRhuezzler/delta-dx)
+- [Expeditor](https://github.com/MrRhuezzler/expediter)
