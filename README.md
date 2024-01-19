@@ -36,11 +36,7 @@ Quotes
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   56 mins         █████████████████████▒░░░   84.74 %
-Prisma       5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 %
-JavaScript   3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.30 %
-JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
-Git Config   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
