@@ -36,7 +36,10 @@ Quotes
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C       16 mins         ███████████████████▒░░░░░   77.68 %
+Other   2 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.13 %
+C++     1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 %
+CMake   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
 ```
 
 <!--END_SECTION:waka-->
