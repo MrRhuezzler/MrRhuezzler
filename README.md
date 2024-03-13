@@ -36,11 +36,11 @@ Quotes
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   4 hrs 13 mins   ███████████░░░░░░░░░░░░░░   43.52 %
-TypeScript   4 hrs 1 min     ██████████▒░░░░░░░░░░░░░░   41.43 %
-Prisma       41 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.06 %
-JSON         15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
-Docker       8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
+JavaScript   4 hrs 13 mins   ███████████▓░░░░░░░░░░░░░   46.08 %
+TypeScript   3 hrs 6 mins    ████████▒░░░░░░░░░░░░░░░░   33.92 %
+Prisma       38 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.07 %
+Markdown     26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 %
+JSON         15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
 ```
 
 <!--END_SECTION:waka-->
