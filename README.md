@@ -36,9 +36,9 @@ Quotes
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   1 hr 32 mins    ██████████████████▓░░░░░░   74.16 %
-JSON         32 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.81 %
-TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+JavaScript   2 hrs 25 mins   ███████████████████░░░░░░   75.51 %
+JSON         47 mins         ██████░░░░░░░░░░░░░░░░░░░   24.47 %
+TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
