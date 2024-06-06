@@ -36,8 +36,7 @@ Quotes
 <!--START_SECTION:waka-->
 
 ```txt
-Other    0 secs          ███████████████████████▓░   95.32 %
-Python   0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
