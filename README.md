@@ -36,11 +36,7 @@ Quotes
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript    1 hr 54 mins    ████████████████████▒░░░░   81.46 %
-JavaScript    14 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.16 %
-JSON          5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
-Bash          4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
-Image (svg)   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
